@@ -13,7 +13,7 @@ ISMCTS agent and through playtesting with human participants.
 
 The complete dissertation is included in this repository:
 
-**Gonzalez_Poblette_2507739_MSc_Dissertation.pdf**
+**Gonzalez_Pablo_2507739_MSc_Dissertation.pdf**
 
 The full LaTeX source for the dissertation is also provided, so the document can be
 inspected or rebuilt in full.
