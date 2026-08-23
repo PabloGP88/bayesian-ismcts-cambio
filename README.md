@@ -34,8 +34,7 @@ everything needed to replicate the project and its results:
 The statistical analysis and all graphs in the dissertation were produced in Google
 Colab. The notebooks used are available here:
 
-- Wilcoxon signed-rank test: <PASTE_COLAB_LINK_1>
-- Mann–Whitney U test: <PASTE_COLAB_LINK_2>
+https://drive.google.com/drive/folders/1YvgwJNKEzCyNHrKkyMfTOF9dO_jWFIk9?usp=sharing
 
 ## Running the project
 
