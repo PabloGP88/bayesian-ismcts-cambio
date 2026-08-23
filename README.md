@@ -2,18 +2,19 @@
 
 This project explores whether adding an adaptive Bayesian opponent-modelling layer
 to a standard Information Set Monte Carlo Tree Search (ISMCTS) agent changes how a
-card-game opponent plays and how players perceive it. Instead of sampling hidden
-game states uniformly, the agent maintains beliefs about the cards it cannot see,
-updates those beliefs from the opponent's observed play, and uses them to bias its
-search toward the states the evidence makes more likely. The approach is
+card-game opponent plays and how players perceive it. The approach is
 implemented and evaluated in the card game Cambio, tested both against a baseline
-ISMCTS agent and through playtesting with human participants.
+ISMCTS agent and through playtesting with human participants. The project was built for my/
+masters project in my Mcs in Computer Games Technology at Abertay, Scotland.
+
+Please feel free to take a look! :D 
+Any comments opr feedback is always welcome.
 
 ## The dissertation
 
 The complete dissertation is included in this repository:
 
-**Gonzalez_Pablo_2507739_MSc_Dissertation.pdf**
+**Gonzalez_Pablo_2507739_Dissertation.pdf**
 
 The full LaTeX source for the dissertation is also provided, so the document can be
 inspected or rebuilt in full.
@@ -25,8 +26,7 @@ everything needed to replicate the project and its results:
 
 - The complete Unity project source.
 - A standalone Windows build, in the `cambio_windows_build` folder.
-- All raw data collected during the study (the telemetry CSV files and the
-  questionnaire responses).
+- All raw data collected during the study.
 - The complete dissertation, both as a PDF and as its full LaTeX source.
 
 ## Analysis scripts
