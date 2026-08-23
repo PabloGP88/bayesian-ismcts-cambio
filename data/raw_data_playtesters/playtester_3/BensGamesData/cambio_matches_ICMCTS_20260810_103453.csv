@@ -1,0 +1,12 @@
+session_id,match_index,agent_label,bayesian_on,completed,winner,ai_score,player_score,ai_turns,ai_swaps,ai_discards,ai_swap_value_delta_avg,ai_unknown_swaps,ai_hidden_own_avg,ai_match_attempts,ai_match_success,ai_match_fail,ai_matches_on_own,ai_matches_on_opponent,ai_penalties,ai_power_cards_drawn,ai_powers_played,ai_power_look_own,ai_power_look_opp,ai_power_blind_swap,ai_power_look_swap,ai_decision_ms_avg
+20260810_171235,1,ICMCTS,0,1,Player,22,20,9,8,1,-2,1,2.704,8,3,5,3,0,5,5,1,0,0,1,0,66.65
+20260810_171235,2,ICMCTS,0,1,Player,6,3,6,1,4,6,1,1.2,3,3,0,3,0,0,4,3,1,0,1,1,64.824
+20260810_171235,3,ICMCTS,0,1,AI,6,9,9,6,2,-3.5,0,1.476,2,2,0,2,0,0,4,1,0,0,0,1,67.263
+20260810_171235,4,ICMCTS,0,1,Player,13,7,4,1,2,-8,1,1.5,1,1,0,1,0,0,2,2,2,0,0,0,65
+20260810_171235,5,ICMCTS,0,1,Player,13,4,4,4,0,-3.75,2,1.778,1,0,1,0,0,1,1,0,0,0,0,0,62.25
+20260810_171235,6,ICMCTS,0,1,Player,8,4,5,2,2,1,2,1.143,2,2,0,2,0,0,2,2,1,1,0,0,63.455
+20260810_171235,7,ICMCTS,0,1,AI,10,26,7,4,2,-2.75,3,1.412,1,1,0,1,0,0,2,2,0,1,1,0,63.938
+20260810_171235,8,ICMCTS,0,1,Player,36,6,8,6,2,-2.167,1,2.364,4,1,3,1,0,3,5,1,0,0,1,0,64.722
+20260810_171235,9,ICMCTS,0,1,Player,17,15,9,8,1,-1.625,3,1.92,6,2,4,2,0,4,3,1,1,0,0,0,64.263
+20260810_171235,10,ICMCTS,0,1,AI,5,28,2,0,1,,0,1.143,2,2,0,1,1,0,1,1,1,0,0,0,63.2
+20260810_171235,11,ICMCTS,0,1,AI,11,15,5,3,1,-1.667,2,1.909,1,1,0,1,0,0,1,1,0,1,0,0,65.4

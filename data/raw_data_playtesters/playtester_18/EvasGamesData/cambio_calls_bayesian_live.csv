@@ -1,0 +1,12 @@
+session_id,match_index,agent_label,bayesian_on,cambio_caller,cambio_caller_turn,cambio_ai_score,cambio_player_score,cambio_caller_was_ahead,cambio_ai_believed_score,guard_believed_own_mean,guard_believed_opp_mean,guard_p_ahead
+20260806_135405,2,bayesian,1,AI,2,8,23,1,12.889,12.702,20.712,0.804
+20260806_135405,3,bayesian,1,AI,2,6,19,1,10.778,10.918,17.549,0.718
+20260806_135405,4,bayesian,1,AI,3,15,30,1,16.889,16.978,22.751,0.683
+20260806_135405,5,bayesian,1,Player,1,33,20,1,,,,
+20260806_135405,6,bayesian,1,Player,4,23,23,0,,,,
+20260806_135405,7,bayesian,1,AI,1,17,28,1,15.889,15.8,20.928,0.658
+20260806_135405,8,bayesian,1,Player,3,25,13,1,,,,
+20260806_135405,9,bayesian,1,AI,2,6,26,1,6,6,11.951,0.75
+20260806_135405,10,bayesian,1,AI,4,13,27,1,15.889,15.837,19.878,0.62
+20260806_135405,11,bayesian,1,Player,4,8,15,0,,,,
+20260806_135405,12,bayesian,1,Player,5,6,3,1,,,,

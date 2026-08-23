@@ -1,0 +1,12 @@
+session_id,match_index,agent_label,bayesian_on,completed,winner,ai_score,player_score,ai_turns,ai_swaps,ai_discards,ai_swap_value_delta_avg,ai_unknown_swaps,ai_hidden_own_avg,ai_match_attempts,ai_match_success,ai_match_fail,ai_matches_on_own,ai_matches_on_opponent,ai_penalties,ai_power_cards_drawn,ai_powers_played,ai_power_look_own,ai_power_look_opp,ai_power_blind_swap,ai_power_look_swap,ai_decision_ms_avg
+20260811_131940,1,bayesian,1,1,Player,12,9,9,8,1,-2.5,1,1.931,10,3,7,3,0,5,4,1,0,0,0,1,73.7
+20260811_131940,2,bayesian,1,1,Player,11,9,3,2,0,-4.5,0,2,1,1,0,1,0,0,1,0,0,0,0,0,76.667
+20260811_131940,3,bayesian,1,1,Player,28,16,5,3,2,-3.667,1,2.733,2,0,2,0,0,2,2,1,0,0,0,1,75.167
+20260811_131940,4,bayesian,1,1,AI,10,17,3,1,1,-2,0,2,1,1,0,1,0,0,1,1,0,0,1,0,77.714
+20260811_131940,5,bayesian,1,1,Player,47,15,5,1,4,5,1,2.211,5,0,5,0,0,4,5,2,0,1,1,0,74.769
+20260811_131940,6,bayesian,1,1,AI,5,18,1,0,0,,0,2,1,1,0,1,0,0,0,0,0,0,0,0,71.5
+20260811_131940,7,bayesian,1,1,Player,28,12,2,0,1,,0,2,0,0,0,0,0,0,2,1,0,1,0,0,70.2
+20260811_131940,8,bayesian,1,1,AI,18,24,2,1,0,-9,0,2,1,1,0,1,0,0,0,0,0,0,0,0,79.333
+20260811_131940,9,bayesian,1,1,AI,11,15,2,1,1,-7,0,2,0,0,0,0,0,0,1,1,0,1,0,0,71.6
+20260811_131940,10,bayesian,1,1,Player,17,10,5,3,2,-5.667,1,2.154,2,1,1,1,0,1,1,1,0,0,1,0,75.083
+20260811_131940,11,bayesian,1,1,Player,17,16,1,0,0,,0,2,0,0,0,0,0,0,0,0,0,0,0,0,73
